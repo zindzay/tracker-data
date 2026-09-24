@@ -1,0 +1,12 @@
+[
+  {"regular_price": "17906₽", "sale_price": "16115₽", "has_credit": true},
+  {"regular_price": "5798₽", "sale_price": "5218₽", "has_credit": true},
+  {"regular_price": "35333₽", "sale_price": "33944₽", "has_credit": true},
+  {"regular_price": "10401₽", "sale_price": "9364₽", "has_credit": true},
+  {"regular_price": "35333₽", "sale_price": "33944₽", "has_credit": true},
+  {"regular_price": "34271₽", "sale_price": "32924₽", "has_credit": true},
+  {"regular_price": "31218₽", "sale_price": "29991₽", "has_credit": true},
+  {"regular_price": "33932₽", "sale_price": "32598₽", "has_credit": true},
+  {"regular_price": "33408₽", "sale_price": "32095₽", "has_credit": true},
+  {"regular_price": null, "sale_price": null, "has_credit": false}
+]
